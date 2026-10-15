@@ -26,9 +26,9 @@ Thumbs.db
 *.swp
 *.swo
 
-# Uploads
-backend/uploads/*
-!backend/uploads/.gitkeep
+# # Uploads
+# backend/uploads/*
+# !backend/uploads/.gitkeep
 
 # Backup files
 *.backup
