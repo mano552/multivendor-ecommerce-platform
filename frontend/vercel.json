@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://shopo.bonto.run/api/:path*" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
